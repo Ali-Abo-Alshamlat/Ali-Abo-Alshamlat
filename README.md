@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-abo-alshamlat&label=Profile%20views&color=0e75b6&style=flat" alt="ali-abo-alshamlat" /> </p>
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Abo-Alshamlat&theme=dracula&margin-w=15)
+
+
 - 🔭 I’m currently working on **freelancer**
 
 - 🌱 I’m currently learning **React Native**
